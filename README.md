@@ -1,2 +1,2 @@
 # Palillos
-Juego de los Palillos utilizando Q-leraning
+Juego de los Palillos utilizando Q-learning
